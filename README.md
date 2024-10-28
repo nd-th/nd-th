@@ -3,9 +3,8 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndeyethiane" alt="ndeyethiane" /></a> 
+
 https://github-profile-trophy.vercel.app/?username=ndeyethiane&theme=dracula
-</p>
 
 - 🔭 I’m currently working on [LMS App for bootcamp](https://github.com/NdeyeThiane/ManagementApp)
 

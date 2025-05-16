@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anta</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate frontend developer in the San Francisco Bay area</h3>
 
 
